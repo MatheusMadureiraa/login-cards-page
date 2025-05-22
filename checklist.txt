@@ -1,8 +1,0 @@
-login e gerenciamento de senha;
-gerenciamento de usuário;
-armazenamento de sessão;
-armazenamento das informações do front-end;
-gerenciamento dos arquivos do projeto;
-versionamento do código fonte;
-utilização da biblioteca React, através ou não do framework Next js;
-fidelidade ao layout.
