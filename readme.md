@@ -1,5 +1,7 @@
 # Axion - Projeto Processo Seletivo
+
 # LEMBRAR DE TIRAR PERMISSOES DE GET NA ROTA PUBLIC DO STRAPI
+
 ## Como rodar na sua máquina
 
 ## Ferramentas utilizadas
@@ -8,7 +10,7 @@
 - Git -> Versionamento
 - Insomnia -> Testes
 
-## Documentação criada para desenvolvimento ágil
+## Documentação criada para desenvolvimento mais ágil
 > Clique no tópico que deseja ver os detalhes para acessar a documentação
 
 1. [Planejamento de *tasks* a serem realizadas dentro do tempo](./docs-backlog/tasks-plan.md)
@@ -16,9 +18,9 @@
 3. [Quadro Kanban](./docs-backlog/kanban.md)
 4. [Testes p/ garantir funcionamento da API](./docs-backlog/testes.md)
 
-## Melhorias adicionais
+## Melhorias adicionadas
 - Documentação da API com exemplos de uso no Insomnia
 - Validações dos campos no Strapi (max length e required)
 - 
 
-Feito com ❤️ por ***Matheus Madureira***
+Feito com ❤️ por Matheus Madureira

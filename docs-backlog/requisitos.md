@@ -34,5 +34,5 @@
 ## Prioridade dos Requisitos
 > ℹ️ Matriz de Einsenhower que criei para me organizar no *Miro*
 
-<img src="../assets/matriz-einsenhower.png" alt="matriz de priorizacao" align="center" width="70%">
+<img src="../assets/matriz-eisenhower.png" alt="matriz de priorizacao" align="center" width="70%">
 
